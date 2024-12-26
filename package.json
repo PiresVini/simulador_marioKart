@@ -1,0 +1,12 @@
+{
+  "name": "primeiro-projeto",
+  "version": "1.0.0",
+  "description": "Projeto inicial feito durante o curso de node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && sleep 2 && exit 1"
+  },
+  "keywords": ["primeira api", "teste"],
+  "author": "Vinicius-pires",
+  "license": "ISC"
+}
